@@ -65,9 +65,10 @@ Ala ma kota. Ala ma psa. Kot śpi. Pies biega.
 Przykładowe wyjście:
 
 ```
-Ala ma kota. Ala ma psa.
-Kot śpi. Pies biega.
+Ala ma psa. Kot ma psa.
+Kot biega. Pies śpi.
 Ala ma kota. Kot śpi.
 
 ```
+
 
