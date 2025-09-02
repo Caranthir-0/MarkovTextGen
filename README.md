@@ -1,6 +1,7 @@
 # Markov Sentence Generator
 
 Prosty generator pseudo-zdań oparty na łańcuchach Markowa (trigramy).
+Dobry początek przygody z przetwarzaniem języka naturalnego NLP.
 
 ---
 
@@ -70,5 +71,6 @@ Kot biega. Pies śpi.
 Ala ma kota. Kot śpi.
 
 ```
+
 
 
