@@ -2,8 +2,6 @@
 
 Prosty generator pseudo-zdań oparty na łańcuchach Markowa (trigramy).
 
-Projekt napisany w Pythonie – idealny do eksperymentów z przetwarzaniem języka naturalnego.
-
 ---
 
 ## 📌 Jak działa?
@@ -72,3 +70,4 @@ Kot śpi. Pies biega.
 Ala ma kota. Kot śpi.
 
 ```
+
